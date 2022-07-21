@@ -6,3 +6,6 @@
 1. Divide o array em diferentes chunks (ou slices), um por thread.
 2. Cada thread aplica o merge sort serial no seu chunk
 3. Quando todas as threads terminarem, é feito um último merge entre as chunks
+
+# Resultado
+![Graph](docs/multi-graph.png)
