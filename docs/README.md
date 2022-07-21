@@ -8,4 +8,4 @@
 3. Quando todas as threads terminarem, é feito um último merge entre as chunks
 
 # Resultado
-![Graph](docs/multi-graph.png)
+![Graph](/docs/multi-graph.png)
